@@ -1,5 +1,3 @@
-## API Test Report
-
 | Endpoint | Method | Status | Description |
 |----------|--------|--------|-------------|
 | /users   | GET    | 200    | Fetch user list |
